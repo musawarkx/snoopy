@@ -364,7 +364,8 @@ https://www.tooplate.com/view/2119-gymso-fitness
 
   .hero {
     background-image: url('../images/snoopywall1.jpg');
-    background-size: 1920px 1080px;
+    
+   background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
     vertical-align: middle;
